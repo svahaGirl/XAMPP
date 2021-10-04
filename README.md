@@ -12,5 +12,7 @@
 ##  - Go to your xampp folder, find phpMyAdmin, open this folder, use text editor open config.inc.php file, add port number following the 127.0.0.1 IP address.
 ##  ![image](https://user-images.githubusercontent.com/56694905/135934925-efd5d7f7-bd94-4d17-a6cb-af80155dd772.png)
 
-
+## ----------------------------------------------------------- 
+## ![image](https://user-images.githubusercontent.com/56694905/135935094-6e42f7fb-931a-483e-b1d1-8ea041803493.png)
+## Works now!
 
