@@ -1,5 +1,6 @@
 # Download XAMPP from: https://www.apachefriends.org/download.html
 ## Install the newest version for Windows in my case.
+##: Apache + MariaDB + PHP + Perl
 ## Open it with administrator 
 ## ![image](https://user-images.githubusercontent.com/56694905/135934574-4d3a0a85-f3a1-409b-8048-a72d0cae64a1.png)
 
@@ -13,6 +14,11 @@
 ##  ![image](https://user-images.githubusercontent.com/56694905/135934925-efd5d7f7-bd94-4d17-a6cb-af80155dd772.png)
 
 ## ----------------------------------------------------------- 
-## ![image](https://user-images.githubusercontent.com/56694905/135935094-6e42f7fb-931a-483e-b1d1-8ea041803493.png)
+## ![image](https://user-images.githubusercontent.com/56694905/135935959-803a0ddf-8566-4621-9cc5-58ecfb4731b2.png)
+
 ## Works now!
+## Donot forget to start Apache and MySQL!
+## Open browser:
+## ![image](https://user-images.githubusercontent.com/56694905/135936024-c08332d7-9871-4f1c-8ac7-99092d32cea1.png)
+
 
